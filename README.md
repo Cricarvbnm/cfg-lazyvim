@@ -1,6 +1,7 @@
 # Neovim Configuration
 
 Based on a template from [LazyVim](https://github.com/LazyVim/LazyVim) (Apache License 2.0).
+Changes are made after commit cad2542.
 
 ## 💤 LazyVim
 
