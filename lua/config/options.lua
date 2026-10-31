@@ -3,6 +3,9 @@
 -- Add any additional options here
 
 local o = vim.opt
+local g = vim.g
 
 o.wrap = true -- Visually newline when needed
 o.listchars = "tab:> <,trail:-,nbsp:+" -- Show some white characters
+
+g.autoformat = false
